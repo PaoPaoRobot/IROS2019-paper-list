@@ -6,7 +6,7 @@ This list is edited by [PaopaoRobot](https://github.com/PaoPaoRobot) , the Chine
 
 
 | title|  index |
-|:---:|:---:| 
+|:---|---:| 
 | Outlier-Robust Manifold Pre-Integration for INS/GPS Fusion| 0688 | 
 | Autonomous Steering of Concentric Tube Robots for Enhanced Force/Velocity Manipulability | 0813 | 
 | A 2-piece six-axis force/torque sensor capable of measuring loads applied to tools of complex shapes| 1744 | 
