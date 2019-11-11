@@ -4,6 +4,7 @@ The 2019 IEEE/RSJ International Conference on Intelligent Robots and Systems (IR
 
 This list is edited by [PaopaoRobot](https://github.com/PaoPaoRobot) , the Chinese academic nonprofit organization. Recently we will classify these papers by topics. Welcome to follow our github and our WeChat Public Platform Account ( [paopaorobot_slam](https://mp.weixin.qq.com/s?__biz=MzI5MTM1MTQwMw==&mid=100000102&idx=1&sn=0a8a831a4f2c18443dbf436ef5d5ff8c&chksm=6c10bf625b6736748c9612879e166e510f1fe301b72ed5c5d7ecdd0f40726c5d757e975f37af&mpshare=1&scene=1&srcid=0530KxSLjUE9I38yLgfO2nVm&pass_ticket=0aB5tcjeTfmcl9u0eSVzN4Ag4tkpM2RjRFH8DG9vylE%3D#rd) ). Of course, you could contact with [daiwei.song@tusimple.ai](mailto://daiwei.song@tusimple.ai)
 
+
 | title|  index |
 |:---:|:---:| 
 | Outlier-Robust Manifold Pre-Integration for INS/GPS Fusion| 0688 | 
@@ -355,29 +356,29 @@ This list is edited by [PaopaoRobot](https://github.com/PaoPaoRobot) , the Chine
 | Data-Driven Model Predictive Control for Trajectory Tracking with a Robotic Arm | 2403 | 
 | Data Flow ORB-SLAM for Real-Time Performance on Embedded GPU Boards | 0413 | 
 | Decentralized Control for 3D M-Blocks for Path Following, Line Formation, and Light Gradient Aggregation | 1308 | 
-| Decentralized Pose Control of Modular Reconfigurable Robots Operating in Liquid Environments | Decentralized Pose Control of Modular Reconfigurable Robots Operating in Liquid Environments | 1996 | 
+|  Decentralized Pose Control of Modular Reconfigurable Robots Operating in Liquid Environments | 1996 | 
 | Decentralized Visual-Inertial Localization and Mapping on Mobile Devices for Augmented Reality | 0461 | 
 | Decoding the Perceived Difficulty of Communicated Contents by Older People: Toward Conversational Robot-Assistive Elderly Care | 2507 | 
 | DEDUCE: Diverse scEne Detection Methods in Unseen Challenging Environments | 0590 | 
 | DeepControl: Energy-Efficient Control of a Quadrotor Using a Deep Neural Network | 1839 | 
-| Deep Dive into Faces: Pose & Illumination Invariant Multi-Face Emotion Recognition System | Deep Dive into Faces: Pose & Illumination Invariant Multi-Face Emotion Recognition System | 0742 | 
+|  Deep Dive into Faces: Pose & Illumination Invariant Multi-Face Emotion Recognition System | 0742 | 
 | Deep Generative Modeling of LiDAR Data | 1601 | 
 | Deep Imitation Learning for Autonomous Driving in Generic Urban Scenarios with Enhanced Safety | 1371 | 
-| Deep Lagrangian Networks for End-To-End Learning of Energy-Based Control for Under-Actuated Systems | Deep Lagrangian Networks for End-To-End Learning of Energy-Based Control for Under-Actuated Systems | 1042 | 
+|  Deep Lagrangian Networks for End-To-End Learning of Energy-Based Control for Under-Actuated Systems | 1042 | 
 | Deep Learning-Based Mutual Detection and Collaborative Localization for Mobile Robot Fleets Using Solely 2D LIDAR Sensors | 1175 | 
 | Deep Learning Based Robotic Tool Detection and Articulation Estimation with Spatio-Temporal Layers | 2384 | 
-| Deep Learning of Proprioceptive Models for Robotic Force Estimation | Deep Learning of Proprioceptive Models for Robotic Force Estimation | 0372 | 
+| Deep Learning of Proprioceptive Models for Robotic Force Estimation | 0372 | 
 | DeepLocNet: Deep Observation Classification and Ranging Bias Regression for Radio Positioning Systems | 1961 | 
-| Deep Multi-Task Learning for Anomalous Driving Detection Using CAN Bus Scalar Sensor Data | Deep Multi-Task Learning for Anomalous Driving Detection Using CAN Bus Scalar Sensor Data | 1665 | 
+|  Deep Multi-Task Learning for Anomalous Driving Detection Using CAN Bus Scalar Sensor Data | 1665 | 
 | Deep Neural Network Approach in Electrical Impedance Tomography-Based Real-Time Soft Tactile Sensor | 0574 | 
-| Deep Neural Network Based Visual Inspection with 3D Metric Measurement of Concrete Defects Using Wall-Climbing Robot | Deep Neural Network Based Visual Inspection with 3D Metric Measurement of Concrete Defects Using Wall-Climbing Robot | 2008 | 
-| Deep Orientation: Fast and Robust Upper Body Orientation Estimation for Mobile Robotic Applications | Deep Orientation: Fast and Robust Upper Body Orientation Estimation for Mobile Robotic Applications | 1070 | 
+| Deep Neural Network Based Visual Inspection with 3D Metric Measurement of Concrete Defects Using Wall-Climbing Robot |   2008 | 
+|  Deep Orientation: Fast and Robust Upper Body Orientation Estimation for Mobile Robotic Applications | 1070 | 
 | DeepPCO: End-To-End Point Cloud Odometry through Deep Parallel Neural Network | 1056 | 
 | Deep Predictive Autonomous Driving Using Multi-Agent Joint Trajectory Prediction and Traffic Rules | 2013 | 
 | Deep Reinforcement Learning for Robotic Pushing and Picking in Cluttered Environment | 1325 | 
 | Deep Sensor Fusion for Real-Time Odometry Estimation | 0421 | 
 | Deep Supervised Hashing with Similar Hierarchy for Place Recognition | 0365 | 
-| DeepVIO: Self-Supervised Deep Learning of Monocular Visual Inertial Odometry Using 3D Geometric Constraints | DeepVIO: Self-Supervised Deep Learning of Monocular Visual Inertial Odometry Using 3D Geometric Constraints | 0978 | 
+|   DeepVIO: Self-Supervised Deep Learning of Monocular Visual Inertial Odometry Using 3D Geometric Constraints | 0978 | 
 | Deep Visual MPC-Policy Learning for Navigation | 2120 | 
 | Degeneracy-Aware Factors with Applications to Underwater SLAM | 1187 | 
 | Degeneracy in Self-Calibration Revisited and a Deep Learning Solution for Uncalibrated SLAM | 1031 | 
@@ -386,15 +387,15 @@ This list is edited by [PaopaoRobot](https://github.com/PaoPaoRobot) , the Chine
 | Delivering Cognitive Behavioral Therapy Using a Conversational Social Robot | 1394 | 
 | Dempster Shafer Grid-Based Hybrid Fusion of Virtual Lanes for Autonomous Driving | 0437 | 
 | Dense 3D Reconstruction for Visual Tunnel Inspection Using Unmanned Aerial Vehicle | 0336 | 
-| DensePeds: Pedestrian Tracking in Dense Crowds Using FRVO and Sparse Features | DensePeds: Pedestrian Tracking in Dense Crowds Using FRVO and Sparse Features | 1295 | 
+| DensePeds: Pedestrian Tracking in Dense Crowds Using FRVO and Sparse Features | 1295 | 
 | Dense, Sonar-Based Reconstruction of Underwater Scenes | 1471 | 
 | Depth-Image-Based Textureless-Object Picking by DCNN and Visual Servoing | 2619 | 
-| Design a Dexterous Hand for the Logistic Robot in Bin Picking | Design a Dexterous Hand for the Logistic Robot in Bin Picking | 2730 | 
+| Design a Dexterous Hand for the Logistic Robot in Bin Picking | 2730 | 
 | Design and Analysis of a New 3-DOF Active-Type Constant-Force Compliant Parallel Stage | 0545 | 
 | Design and Analysis of the All-In-One Actuation Module with Multi-Sensors | 2670 | 
 | Design and Characterization of a Fully Autonomous Under-Actuated Soft Batoid-Like Robot | 1374 | 
 | Design and Comparative Analysis of 1D Hopping Robots | 1831 | 
-| Design and Control of Aerial Modules for Inflight Self-disassembly | Design and Control of Aerial Modules for Inflight Self-disassembly | 2389 | 
+| Design and Control of Aerial Modules for Inflight Self-disassembly | 2389 | 
 | Design and Control of a High-Torque and Highly-Backdrivable Hybrid Soft Exoskeleton for Knee Injury Prevention during Squatting | 2493 | 
 | Design and Control of a Multifunctional Ankle Exoskeleton Powered by Magnetorheological Actuators to Assist Walking, Jumping and Landing | 2227 | 
 | Design and Development of Compactly Folding Parallel Open-Close Gripper with Wide Stroke | 1926 | 
@@ -428,7 +429,7 @@ This list is edited by [PaopaoRobot](https://github.com/PaoPaoRobot) , the Chine
 | Design of Robot Leg with Variable Reduction Ratio Crossed Four-bar Linkage Mechanism | 1784 | 
 | Design of Soft Flexible Wire-Driven Finger Mechanism for Contact Pressure Distribution | 0909 | 
 | Design of Wearable Robot Focused on Contact State with Wearer | 2756 | 
-| DESK: A Robotic Activity Dataset for Dexterous Surgical Skills Transfer to Medical Robots | DESK: A Robotic Activity Dataset for Dexterous Surgical Skills Transfer to Medical Robots | 1757 | 
+| DESK: A Robotic Activity Dataset for Dexterous Surgical Skills Transfer to Medical Robots | 1757 | 
 | Detecting Layered Structures of Partially Occluded Objects for Bin Picking | 1934 | 
 | Development of 3DoF Manipulators with Cable-Hydraulic Driven Actuation Modules for Large Workspace and High Payload-To-Weight | 2771 | 
 | Development of a Continuous Vertical-Pulling Automatic Doffing Robot for the Ring Spinning | 1921 | 
@@ -438,11 +439,11 @@ This list is edited by [PaopaoRobot](https://github.com/PaoPaoRobot) , the Chine
 | Development of an Arm Curl Machine with Variable Resistance Using Pneumatic Artificial Rubber Muscle | 1928 | 
 | Development of an Autonomous Sanding Robot with Structured-Light Technology | 0660 | 
 | Development of a Navigation Algorithm for Optimal Path Planning for Autonomous Electric Vehicles | 1110 | 
-| Development of a Steel Bridge Climbing Robot | Development of a Steel Bridge Climbing Robot | 1315 | 
+| Development of a Steel Bridge Climbing Robot | 1315 | 
 | Development of Flexible Dual-Type Proximity Sensor with Resonant Frequency for Robotic Applications | 0821 | 
 | Development of Immersive VR Interface of Finger Motion without Restriction of Real Environment | 2676 | 
 | Development of Joint Module with Two-Speed Gear Transmission and Joint Lock Mechanism during Driving for Task Adaptable Robot | 0296 | 
-| Development of Load Weight and Height Classifier in Lifting-Up Task Using Body Motion Metrics | Development of Load Weight and Height Classifier in Lifting-Up Task Using Body Motion Metrics | 2555 | 
+|  Development of Load Weight and Height Classifier in Lifting-Up Task Using Body Motion Metrics | 2555 | 
 | Development of Micro Ultrasonic Actuator and Micro Rotor Blade for Micro Aerial Vehicle | 0623 | 
 | Development of Novel Bevel-Geared 5mm Articulating Wrist for Micro-Laparoscopy Instrument | 2238 | 
 | Did You Miss the Sign? a False Negative Alarm System for Traffic Sign Detectors | 1156 | 
