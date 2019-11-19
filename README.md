@@ -777,7 +777,7 @@ This list is edited by [PaopaoRobot, 泡泡机器人](https://github.com/PaoPaoR
 | Maximum Information Bounds for Planning Active Sensing Trajectories | 1273 | 
 |  Maximum Likelihood Path Planning for Fast Aerial Maneuvers and Collision Avoidance | 0106 | 
 | Measuring Engagement Elicited by Eye Contact in Human-Robot Interaction | 0949 | 
-  Meta-Learning for Multi-Objective Reinforcement Learning | 0929 | 
+| Meta-Learning for Multi-Objective Reinforcement Learning | 0929 | 
 | Meta-World: A Benchmark and Evaluation for Multi-Task and Meta Reinforcement Learning | 2686 | 
 | Metric Monocular Localization Using Signed Distance Fields | 0840 | 
 | Miniaturization of MR Safe Pneumatic Rotational Stepper Motors | 0892 | 
