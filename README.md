@@ -2,7 +2,7 @@
 
 The 2019 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2019) has been held on November 4 – 8, 2019 in The Venetian Macao, Macau, China. IROS is one of the largest and most impacting robotics research conferences worldwide. It brings an international community of researchers, educators and practitioners to explore the frontier of science and technology in intelligent robots and systems, and discuss the latest advancements in this fast growing and exciting field.
 
-This list is edited by [PaopaoRobot 泡泡机器人](https://github.com/PaoPaoRobot) , the Chinese academic nonprofit organization. Recently we will classify these papers by topics. Welcome to follow our github and our WeChat Public Platform Account ( [paopaorobot_slam](https://mp.weixin.qq.com/s?__biz=MzI5MTM1MTQwMw==&mid=100000102&idx=1&sn=0a8a831a4f2c18443dbf436ef5d5ff8c&chksm=6c10bf625b6736748c9612879e166e510f1fe301b72ed5c5d7ecdd0f40726c5d757e975f37af&mpshare=1&scene=1&srcid=0530KxSLjUE9I38yLgfO2nVm&pass_ticket=0aB5tcjeTfmcl9u0eSVzN4Ag4tkpM2RjRFH8DG9vylE%3D#rd) ). Of course, you could contact with [daiwei.song@tusimple.ai](mailto://daiwei.song@tusimple.ai)
+This list is edited by [PaopaoRobot, 泡泡机器人](https://github.com/PaoPaoRobot) , the Chinese academic nonprofit organization. Recently we will classify these papers by topics. Welcome to follow our github and our WeChat Public Platform Account ( [paopaorobot_slam](https://mp.weixin.qq.com/s?__biz=MzI5MTM1MTQwMw==&mid=100000102&idx=1&sn=0a8a831a4f2c18443dbf436ef5d5ff8c&chksm=6c10bf625b6736748c9612879e166e510f1fe301b72ed5c5d7ecdd0f40726c5d757e975f37af&mpshare=1&scene=1&srcid=0530KxSLjUE9I38yLgfO2nVm&pass_ticket=0aB5tcjeTfmcl9u0eSVzN4Ag4tkpM2RjRFH8DG9vylE%3D#rd) ). Of course, you could contact with [daiwei.song@tusimple.ai](mailto://daiwei.song@tusimple.ai)
 
 
 | title|  index |
@@ -448,7 +448,7 @@ This list is edited by [PaopaoRobot 泡泡机器人](https://github.com/PaoPaoRo
 | Development of Novel Bevel-Geared 5mm Articulating Wrist for Micro-Laparoscopy Instrument | 2238 | 
 | Did You Miss the Sign? a False Negative Alarm System for Traffic Sign Detectors | 1156 | 
 | Directional TSDF: Modeling Surface Orientation for Coherent Meshes | 1151 | 
-| Disaster Response Robotï¿½s Autonomous Manipulation of Valves in Disaster Sites Based on Visual Analyses of RGBD Images | 0514 | 
+| Disaster Response Robot's Autonomous Manipulation of Valves in Disaster Sites Based on Visual Analyses of RGBD Images | 0514 | 
 | DISC: A Large-Scale Virtual Dataset for Simulating Disaster Scenarios | 0018 | 
 | DISCOMAN: Dataset of Indoor SCenes for Odometry, Mapping and Navigation | 1019 | 
 | Discrete N-Dimensional Entropy of Behavior: DNDEB | 1377 | 
@@ -514,7 +514,7 @@ This list is edited by [PaopaoRobot 泡泡机器人](https://github.com/PaoPaoRo
 | ESKO6d - a Binocular and RGB-D Dataset of Stored Kitchen Objects with 6d Poses | 1055 | 
 | Establishing Safer Human-Vehicle Visual Interaction at Night | 2659 | 
 | Estimating Metric Scale Visual Odometry from Videos Using 3D Convolutional Networks | 1923 | 
-| Estimating the Center of Mass and the Angular Momentum Derivative for Legged Locomotion ï¿½ a Recursive Approach | 2585 | 
+| Estimating the Center of Mass and the Angular Momentum Derivative for Legged Locomotion ' a Recursive Approach | 2585 | 
 | Evaluating the Acceptability of Assistive Robots for Early Detection of Mild Cognitive Impairment | 0468 | 
 | Evaluation of a Large-Scale Event-Driven Robot Skin |  2181 | 
 | Evaluation of Hopping Robot Performance with Novel Foot Pad Design on Natural Terrain for Hopper Development | 2326 | 
@@ -634,15 +634,15 @@ This list is edited by [PaopaoRobot 泡泡机器人](https://github.com/PaoPaoRo
 | HouseExpo: A Large-Scale 2D Indoor Layout Dataset for Learning-Based Algorithms | 2719 | 
 | Hovering Control of a TTURT with Thrust Vector Decomposition Technique | 2640 | 
 | How Can Robot's Gaze Ratio and Gaze Type Show an Awareness of Power Dynamics to the People with Whom It Is Interacting? | 2506 | 
-| HTetran ï¿½ a Polyabolo Inspired Self Reconfigurable Tiling Robot | 1790 | 
+| HTetran ' a Polyabolo Inspired Self Reconfigurable Tiling Robot | 1790 | 
 | Human Intention Inference and On-Line Human Hand Motion Prediction for Human-Robot Collaboration | 1604 | 
 | Human Interactive Motion Planning for Shared Teleoperation | 2703 | 
-| Humanoid Robotï¿½s Force-Based Heavy Manipulation Tasks with Torque-Controlled Arms and Wrist Force Sensors | 0776 | 
+| Humanoid Robot's Force-Based Heavy Manipulation Tasks with Torque-Controlled Arms and Wrist Force Sensors | 0776 | 
 | Humanoid Robot Next Best View Planning under Occlusions Using Body Movement Primitives | 2250 | 
 | Human Robot Visual Interface for 3D Steering of a Flexible, Bio-Inspired Needle for Brain Surgery | 0392 | 
 | Hybrid Visual Servoing for Autonomous Robotic Laser Tattoo Removal | 1208 | 
 | Hysteresis Compensator with Learning-Based Pose Estimation for a Flexible Endoscopic Surgery Robot | 0934 | 
-| ï¿½Why Donï¿½t You Have a Wife?!ï¿½ Free Format Dialogue in CRI* | 2753 | 
+| 'Why Don't You Have a Wife?!' Free Format Dialogue in CRI* | 2753 | 
 | Identification of Rat Ultrasonic Vocalizations from Mix Sounds of a Robotic Rat in Non-Silent Environments | 0746 | 
 | Identification of Time-Varying and Time-Scalable Synergies from Continuous Electromyographic Patterns | 2237 | 
 | Identifying Opportunities for Relationship-Focused Robotic Interventions in Strained Hierarchical Relationships | 0139 | 
@@ -710,7 +710,7 @@ This list is edited by [PaopaoRobot 泡泡机器人](https://github.com/PaoPaoRo
 | Learning Continuous Time Control Policies by Minimizing the Hamilton-Jacobi-Bellman Residual | 2685 | 
 | Learning Event-Based Height from Plane and Parallax | 1144 | 
 | Learning Footstep Planning on Irregular Surfaces with Partial Placements | 0597 | 
-| Learning from Demonstration Based on a Mechanism to Utilize an Objectï¿½s Invisibility | 2516 | 
+| Learning from Demonstration Based on a Mechanism to Utilize an Object's Invisibility | 2516 | 
 | Learning Generalisable Coupling Terms for Obstacle Avoidance Via Low-Dimensional Geometric Descriptors | 2418 | 
 | Learning Generative Socially-Aware Models of Pedestrian Motion | 2395 | 
 | Learning Grasp Affordance Reasoning through Semantic Relations | 2527 | 
@@ -1016,7 +1016,7 @@ This list is edited by [PaopaoRobot 泡泡机器人](https://github.com/PaoPaoRo
 | Robot-Based Strategy for Objective Assessment of Motor Impairments | 2649 | 
 | Robot-Enhanced Therapy: Development and Validation of a Supervised Autonomous Robotic System for Autism Spectrum Disorders Therapy | 2500 | 
 | Robot Finger with Remote Center of Motion Mechanism for Covering Joints with Thick Skin | 2151 | 
-| Robotï¿½Robot Gesturing for Anchoring Representations | 2605 | 
+| Robot'Robot Gesturing for Anchoring Representations | 2605 | 
 | Robotic Cutting of Solids Based on Fracture Mechanics and FEM | 1501 | 
 | Robotic Laparoendoscopic Single-Site Surgery Platform on dVRK | 2772 | 
 | Robotic Tracking Control with Kernel Trick-Based Reinforcement Learning | 0381 | 
@@ -1061,7 +1061,7 @@ This list is edited by [PaopaoRobot 泡泡机器人](https://github.com/PaoPaoRo
 | Scaling Robot Supervision to Hundreds of Hours with RoboTurk: Robotic Manipulation Dataset through Human Reasoning and Dexterity | 1251 | 
 | Scheduling of Mobile Workstations for Overlapping Production Time and Delivery Time | 0586 | 
 | Seeing behind Things: Extending Semantic Segmentation to Occluded Regions | 1433 | 
-| Seeing Beyond Appearance ï¿½ Mapping Real Images into Geometrical Domains for Unsupervised CAD-Based Recognition | 1124 | 
+| Seeing Beyond Appearance ' Mapping Real Images into Geometrical Domains for Unsupervised CAD-Based Recognition | 1124 | 
 | Seeking the Analytical Approximation of the Stance Dynamics of the 3D Spring-Loaded Inverted Pendulum Model by Using Perturbation Approach | 0633 | 
 | Segregation and Flow of Modules in a Robot Swarm Utilising the Brazil Nut Effect | 0622 | 
 | Self-Calibration and Learning on Chip: Towards Neuromorphic Robots | 2752 | 
@@ -1154,12 +1154,12 @@ This list is edited by [PaopaoRobot 泡泡机器人](https://github.com/PaoPaoRo
 | TerrainFusion: Real-Time Digital Surface Model Reconstruction Based on Monocular SLAM | 0786 | 
 | The ANBOT: An Intelligent Robotic Co-Worker for Industrial Abrasive Blasting | 1497 | 
 | The ARMM System: Demonstrating Clinical Feasibility in Steering Magnetically Actuated Catheters in Endovascular Applications | 2648 | 
-| The Combination Function for Multi-Leg Modular Robot, Bio-Mimicked from Antï¿½s Behavior | 2657 | 
+| The Combination Function for Multi-Leg Modular Robot, Bio-Mimicked from Ant's Behavior | 2657 | 
 | The Compliant Joint Toolbox for MATLAB: An Introduction with Examples | 2574 | 
 | The CoSTAR Block Stacking Dataset: Learning with Workspace Constraints |  1236 | 
 | The Impact of Domain Randomization on Object Detection: Case Study on Parametric Shapes and Synthetic Textures | 1333 | 
 | The MaSTr1325 Dataset for Training Deep USV Obstacle Detection Models | 1480 | 
-| Theoretical Foundation for Design of Friction-Tunable Soft Finger with Wrinkleï¿½s Morphology | 2518 | 
+| Theoretical Foundation for Design of Friction-Tunable Soft Finger with Wrinkle's Morphology | 2518 | 
 | The RGB-D Triathlon: Towards Agile Visual Toolboxes for Robots | 2357 | 
 | Thermal-Inertial Odometry for Autonomous Flight Throughout the Night | 1819 | 
 | The Road is Enough! Extrinsic Calibration of Non-overlapping Stereo Camera and LiDAR using Road Information | 2213 | 
